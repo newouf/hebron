@@ -16,6 +16,15 @@ For years people have tried to make operating systems, text adventures, and more
 
 If you've got a couple minutes to waste, why not make a couple Huke scripts?
 
+## Installation
+
+Did you see the `Makefile`?
+
+```sh
+$ make
+$ ./huke my-program.hk
+```
+
 ## Syntax
 
 I'd recommend checking out [the wikipedia article]() for Befunge, as it has a complete reference. Any differences to Befunge will be posted below in the section *Differences to Befunge*.

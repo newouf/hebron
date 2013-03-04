@@ -1,5 +1,4 @@
 CC = gcc
-
 all: huke
 
 huke:
