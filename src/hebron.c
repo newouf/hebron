@@ -407,7 +407,7 @@ int step(runner * run) {
     }
     else {
       fprintf(stderr,
-	      "error at (%d, %d): unknown huke instruction '%c' (%d)\n",
+	      "error at (%d, %d): unknown hebron instruction '%c' (%d)\n",
 	      run->x, run->y, op, op);
       return -1;
     }
