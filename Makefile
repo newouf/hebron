@@ -1,8 +1,8 @@
 CC = gcc
-all: huke
+all: hebron
 
-huke:
-	@${CC} src/huke.c -o huke
+hebron:
+	@${CC} src/hebron.c -o hebron
 
 clean:
-	@rm -rf huke *.o
+	@rm -rf hebron *.o
