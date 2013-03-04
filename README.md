@@ -1,4 +1,4 @@
-# Huke - **H**ard to **U**nderstand Pu**ke**
+# Huke - Hard to Understand Puke
 
 ```
   _           _        
