@@ -22,7 +22,7 @@ I'd recommend checking out [the wikipedia article]() for Befunge, as it has a co
 
 Here is a simple hello world program in Huke:
 
-```
+```befunge
 "?puddaW",,,,,,,@
 ```
 
